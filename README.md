@@ -1,16 +1,15 @@
-## Hi there 👋
+# 👋 Hi, I’m MD Tafhim Uddin Adib
 
-<!--
-**Adib-Yeager/Adib-Yeager** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 EEE student at Pabna University of Science and Technology  
+🔧 Interested in Robotics, Automation, Embedded Systems, and Programming  
+💡 Learning C, C++, Arduino, and PLC  
 
-Here are some ideas to get you started:
+## 🔨 Projects
+- 🤖 Line Follower Robot using Arduino
+- 🔌 Smart Home Automation with IoT
+- 📊 Circuit Analysis using MATLAB
+- ⚡ Power Distribution Project Simulation in ETAP
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 How to reach me
+- Email: sweetyfarhana5@gmail.com@gmail.com
+- LinkedIn: www.linkedin.com/in/meer-md-tafhim-uddin-adib-a03922341
