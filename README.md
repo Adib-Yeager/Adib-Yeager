@@ -11,5 +11,5 @@
 - ⚡ Power Distribution Project Simulation in ETAP
 
 ## 📫 How to reach me
-- Email: sweetyfarhana5@gmail.com@gmail.com
+- Email: sweetyfarhana5@gmail.com
 - LinkedIn: www.linkedin.com/in/meer-md-tafhim-uddin-adib-a03922341
